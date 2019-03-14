@@ -46,4 +46,4 @@ A React based gif search application with a user interface of giphy website and 
 
 ## Legal Discliamer
 
-**This project is made for development purposes only.All Trademarks referred to are the property of their respective owners.This site is powered by Giphy API all assets and images belong to Giphy.com**
+**This project is made for development purposes only.All Trademarks referred to are the property of their respective owners.This site is powered by Giphy API. All images belong to Giphy.com**
